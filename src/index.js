@@ -1,7 +1,7 @@
 /**
  * LexAgent SDK
  * AI Compliance Monitor for Autonomous Agents
- * https://lexagent.io
+ * https://neuronium.engineer
  */
 
 const LEXAGENT_API = process.env.LEXAGENT_API_URL || 'https://lexagent-api.onrender.com/v1';
