@@ -1,8 +1,8 @@
 # LexAgent SDK
 
-**AI Compliance Counsel for Autonomous Agents**
+**AI Compliance Monitor for Autonomous Agents**
 
-Real-time legal risk monitoring for every action your AI agents take — across EU AI Act, GDPR, NIST AI RMF, ISO 42001, SOC 2, CCPA, and 50+ global frameworks. Immutable blockchain audit trail included. No lawyers required.
+Real-time legal risk monitoring for every action your AI agents take — across EU AI Act, GDPR, NIST AI RMF, ISO 42001, SOC 2, CCPA, and 50+ global frameworks. Immutable blockchain audit trail included. Automated compliance documentation.
 
 ```bash
 npm install @lexagent/sdk
