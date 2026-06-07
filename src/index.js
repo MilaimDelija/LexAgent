@@ -4,7 +4,7 @@
  * https://lexagent.io
  */
 
-const LEXAGENT_API = 'https://api.lexagent.io/v1';
+const LEXAGENT_API = process.env.LEXAGENT_API_URL || 'https://lexagent-api.onrender.com/v1';
 const SDK_VERSION = '0.1.0';
 
 class LexAgentSDK {

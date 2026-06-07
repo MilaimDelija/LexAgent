@@ -18,7 +18,7 @@ except ImportError:
     import urllib.request
     _HTTP = "urllib"
 
-LEXAGENT_API = "https://api.lexagent.io/v1"
+LEXAGENT_API = os.environ.get("LEXAGENT_API_URL", "https://lexagent-api.onrender.com/v1")
 SDK_VERSION = "0.1.0"
 HIGH_RISK_TYPES = {"EXTERNAL_WRITE", "DATA_ACCESS", "DECISION"}
 
