@@ -1,6 +1,6 @@
 /**
  * LexAgent SDK
- * AI Compliance Counsel for Autonomous Agents
+ * AI Compliance Monitor for Autonomous Agents
  * https://lexagent.io
  */
 
